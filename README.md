@@ -104,18 +104,29 @@ is available for free in a webbook format.
 Allow me to set expectations upfront: you will receive very few lectures from me
 over the course of this semester. Instead, much of our time will be centered
 around learning by *doing*. What that doing actually entails will of course vary
-from week to week, but each week's activities will follow one of three formats:
-commit weeks, deploy weeks, and a release week.
+from week to week, but each week's activities will almost always follow one of
+three formats: commit weeks, build weeks, and a release week.
 
 ### Commit weeks
 
-Commit weeks will consist of bite-sized deliverables centered around a specific
-topic for the week. You can generally expect an assigned reading from the course
-textbook, group discussions (both in-class and via Discord), small individual
-and team deliverables, and an expectation to engage in some personal
-introspection via reflection entries. 
+Commit weeks are so named because they, like a `git commit`, represent small,
+incremental steps on our shared learning journey that we will progressively
+iterate and build upon. The objective here is to *commit* to completing a series
+of small tasks that aim to help you *commit* key learnings to memory. (One
+thing you'll quickly learn about me is that I like to *commit* to a bit.)
+
+Put plainly, these weeks will consist of bite-sized deliverables centered around
+a specific topic or theme for the week. You can generally expect an assigned
+reading from the course textbook, group discussions (both in-class and via
+Discord), small individual and team deliverables, and an expectation to engage
+in some personal introspection via reflection entries. 
 
 ### Build weeks
+
+A build week is all about doing just that: *build*ing something. If commit weeks
+are about learning new ideas, then build weeks are about demonstrating that
+learning. (Which, pedagogically speaking, helps to reinforce that learning as
+well. Neat!)
 
 Build weeks will see you working with teammates to complete a one-week project 
 aiming to demonstrate your achievements with one (or more) of the course's
@@ -124,21 +135,31 @@ and presentation of what you've accomplished with the class. Additionally, these
 weeks will be used to conduct one-on-one **performance reviews**, which will be
 elaborated on later in this document.
 
-### Release weeks
+### Release week (& working weeks)
 
-Release weeks will make up the culmination of our time together. You'll work
-with teammates to put together a sizable project that demonstrates your mastery
-of course learning objectives. *Unlike* build weeks, which are contained to one
-week each, you'll have a span of several working weeks to put together a fitting
-capstone of your time in this course. *Like* build weeks, you can expect a
-demo and presentation, as well as one final (lengthier) **performance review**.
+When building software, it generally takes a series of commits to put a build
+together, and it often takes several iterations of builds to come up with a
+release that one is proud to, well, *release*. This is the final stop on our
+learning journey, and if we're diligent this semester it should prove to be a
+worthwhile one.
 
-## Grading Strategy: Assessing Learning
+You'll work with teammates to put together a sizable project that demonstrates
+your mastery of course learning objectives. The big release week will be
+preceded by a few working weeks, where no new tasks will be assigned by the
+instructor; however, you'll need to take ownership of your own (and your team's)
+time management to use those "free" weeks wisely to complete the requirements
+associated with the culminating project.
+
+Release week itself will take place during exam week. During our scheduled final
+exam period you can expect a demo and presentation, as well as one final
+(lengthier) **performance review** with the instructor.
+
+## Grading: Assessing Your Learning
 
 First and foremost, the purpose of our time together is to *learn*. We'll best
-learn together by keeping up with course expectations and of course sharing
-what we've discovered with one another. The grading strategy employed in this
-class is built around those ideas.
+learn together by keeping up with course expectations and (of course) sharing
+what we've discovered with one another. The grading strategies employed in this
+class are built around those ideas.
 
 There are exactly 100 points up for grabs over the course of the semester.
 You'll begin with exactly 0, and each week will have a finite number of 
@@ -162,7 +183,7 @@ determine the letter grade you receive.
 
 ### Point Breakdown
 
-The 100 possible points from this course come from the following sources:
+The 100 possible points from this course are derived from the following sources:
 
 | Week Type | # of Occurrences | Points per Occurrence | Total Points |
 | :-------- | :--------------- | :-------------------- | :----------- |
@@ -225,10 +246,7 @@ project demo, a brief presentation, and an individual performance review.
 ### Release Week Points
 
 The culminating project for the semester, there are a total of 20 points tied
-to release week, which will take place during the final exam period. Release
-week itself will be preceded by a few working weeks, which will have no
-available points, but will consist purely of working time in class and lab to
-complete the capstone project with your teammates.
+to release week, which will take place during the final exam period.
 
 The 20 points available from release week come from the following sources:
 
@@ -240,3 +258,47 @@ The 20 points available from release week come from the following sources:
   from one final one-on-one review session with the instructor. Again, expect
   me to ask you to honestly evaluate your own performance, and orally test your
   mastery of course learning objectives.
+
+## Tokens: The Second Chance System
+
+I get it, life happens. Sometimes you might miss a deadline. While you should
+generally make every effort to *avoid* this outcome, occasionally it's
+inevitable. I want to recognize this fact of life, but at the same time if I do
+away with penalties for missed deadlines altogether, it becomes very difficult
+to facilitate our learning *together*: if you're on page five while the rest of
+the book club is on page five-hundred, then you're not going to get much out of
+book club, and book club isn't going to get much out of *you*.
+
+This being the case, once a deadline has passed, there will be no opportunity to
+reclaim any missed points...with three exceptions at your discretion, that is.
+In keeping with department tradition, CMPSC 201 offers students three tokens
+that can be cashed in to make up work for three missed deadlines. These *cannot*
+be applied to any deliverables pertaining to release week, or the one-on-one
+performance review sessions with the instructor. All else (including demos and
+presentations for build weeks) is fair game, with one caveat: if it's a team
+assignment you're attempting to make up, then *all* team members must fork over
+one token each.
+
+There may (or may not) be opportunities to earn extra tokens this semester. That
+will be for all of us to discover together.
+
+## Course Calendar: The Road Ahead
+
+| Week Starting            | Type      | Theme                    | Reading    |
+| ------------------------ | --------- | ------------------------ | ---------- |
+| 8/26 (no lab)            | Commit    | Orientation              | Chapter 1  |
+| 9/1 (no lab)             | Commit    | Parts of a Language      | Chapter 2  |
+| 9/8                      | Commit    | Enter Lox                | Chapter 3  |
+| 9/15                     | Build     | Language Zoo             | N/A        |
+| 9/22                     | Commit    | You Can Scan, Man        | Chapter 4  |
+| 9/29                     | Commit    | Getting Grammatical      | Chapter 5  |
+| 10/6 (no TH class)       | Commit    | Unambiguity              | Chapter 6  |
+| 10/13                    | Build     | Mission Im-parse-ible    | N/A        |
+| 10/20                    | Commit    | The Value of Evaluation  | Chapter 7  |
+| 10/27                    | Commit    | State of the State       | Chapter 8  |
+| 11/3 (no TU class)       | Commit    | Flow Machines            | Chapter 9  |
+| 11/10                    | Build     | Locking in Lox           | N/A        |
+| 11/17                    | Commit    | Locking up Lox           | Chapter 10 |
+| 11/24 (no TH class)      | Working   | N/A                      | N/A        |
+| 12/1                     | Working   | N/A                      | N/A        |
+| 12/8 (meeting TU @ 9am)  | Release   | N/A                      | N/A        |
