@@ -349,3 +349,24 @@ this requires that none of us get left behind.
 | 11/24 (no TH class)      | Working   | N/A                      | N/A        |
 | 12/1                     | Working   | N/A                      | N/A        |
 | 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
+
+## AI: Buyer Beware
+
+AI tools such as Copilot and ChatGPT are fairly ubiquitous these days, and they
+have immense potential and utility in a variety of disciplines and industries.
+I believe that part of responsibly preparing all of you for life beyond
+Allegheny includes preparing you for the ways in which such AI tools can be a
+boon, as well as a hindrance.
+
+I encourage all of you to thoughtfully deliberate over which deliverables would
+be conducive to AI assistance, and which would not. Knowing that the ultimate
+goal of our time here is to (once more, with feeling) *learn together*, I think
+you'll find you'll get the most out of this class by honestly grappling with
+assignments as a human first, and then tagging in your AI tools of choice to
+polish, refine, and elevate your contributions.
+
+A word of warning: regardless of the extent to which you rely on AI tools to
+complete deliverables, the one-on-one performance review sessions that will take
+place during the semester will see you in an environment sans AI where you
+must successfully communicate what you've learned in the course, and make up
+a significant percentage of the available points this semester.
