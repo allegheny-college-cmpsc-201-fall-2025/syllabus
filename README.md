@@ -155,6 +155,27 @@ Release week itself will take place during exam week. During our scheduled final
 exam period you can expect a demo and presentation, as well as one final
 (lengthier) **performance review** with the instructor.
 
+### Course Calendar
+
+| Week Starting            | Type      | Theme                    | Reading    |
+| ------------------------ | --------- | ------------------------ | ---------- |
+| 8/26 (no lab)            | Commit    | Orientation              | Chapter 1  |
+| 9/1 (no lab)             | Commit    | Parts of a Language      | Chapter 2  |
+| 9/8                      | Commit    | Enter Lox                | Chapter 3  |
+| 9/15                     | Build     | Language Zoo             | N/A        |
+| 9/22                     | Commit    | Scanning                 | Chapter 4  |
+| 9/29                     | Commit    | Grammars                 | Chapter 5  |
+| 10/6 (no TH class)       | Commit    | Parsing                  | Chapter 6  |
+| 10/13                    | Build     | Mission Im-parse-ible    | N/A        |
+| 10/20                    | Commit    | Expressions              | Chapter 7  |
+| 10/27                    | Commit    | Statements               | Chapter 8  |
+| 11/3 (no TU class)       | Commit    | Control Flow             | Chapter 9  |
+| 11/10                    | Build     | Locking in Lox           | N/A        |
+| 11/17                    | Commit    | Functions                | Chapter 10 |
+| 11/24 (no TH class)      | Working   | N/A                      | N/A        |
+| 12/1                     | Working   | N/A                      | N/A        |
+| 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
+
 ## Grading: Assessing Your Learning
 
 First and foremost, the purpose of our time together is to *learn*. We'll best
@@ -329,28 +350,7 @@ an extra helping hand to manage course workload, please get with me ASAP. My
 goal is to (say it with me now) ensure that we all learn *together*; achieving
 this requires that none of us get left behind.
 
-## Course Calendar: The Road Ahead
-
-| Week Starting            | Type      | Theme                    | Reading    |
-| ------------------------ | --------- | ------------------------ | ---------- |
-| 8/26 (no lab)            | Commit    | Orientation              | Chapter 1  |
-| 9/1 (no lab)             | Commit    | Parts of a Language      | Chapter 2  |
-| 9/8                      | Commit    | Enter Lox                | Chapter 3  |
-| 9/15                     | Build     | Language Zoo             | N/A        |
-| 9/22                     | Commit    | Scanning                 | Chapter 4  |
-| 9/29                     | Commit    | Grammars                 | Chapter 5  |
-| 10/6 (no TH class)       | Commit    | Parsing                  | Chapter 6  |
-| 10/13                    | Build     | Mission Im-parse-ible    | N/A        |
-| 10/20                    | Commit    | Expressions              | Chapter 7  |
-| 10/27                    | Commit    | Statements               | Chapter 8  |
-| 11/3 (no TU class)       | Commit    | Control Flow             | Chapter 9  |
-| 11/10                    | Build     | Locking in Lox           | N/A        |
-| 11/17                    | Commit    | Functions                | Chapter 10 |
-| 11/24 (no TH class)      | Working   | N/A                      | N/A        |
-| 12/1                     | Working   | N/A                      | N/A        |
-| 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
-
-## AI: Buyer Beware
+## Buyer Beware: A Note on AI
 
 AI tools such as Copilot and ChatGPT are fairly ubiquitous these days, and they
 have immense potential and utility in a variety of disciplines and industries.
