@@ -79,7 +79,7 @@ communication during normal business hours difficult, if not sometimes
 impossible. That having been said, I will make all efforts to reply to attempts
 to communicate with me within a timely manner: generally within one 24-hour
 period, excluding weekends and holidays (work-life balance is important for
-*all* of us, after all).
+*all* of us).
 
 Additionally, it's worth noting that between class sessions, lab, and my office
 hours, there is ample opportunity for us to see each other in-person on a daily
@@ -299,8 +299,8 @@ that can be cashed in to make up work for three missed deadlines.
 
 Four guidelines apply to the cashing in of any tokens this semester:
 
-1. They cannot be applied to missed attendance points or any deliverables
-pertaining to release week.
+1. They cannot be applied to missed attendance points, performance review
+sessions, or any deliverables pertaining to release week.
 
 2. If you're applying tokens to team-based assignments, then *all* team members
 must fork over one token each.
@@ -310,9 +310,9 @@ the original deadline. Once this two week period has elapsed, tokens can no
 longer be applied to that assignment.
 
 4. In addition to missed assignments, tokens can be used to resubmit assignments
-in an attempt to receive a higher score. (Given the credit/no credit nature of
-commit week deliverables, this will only really pertain to build week demos &
-presentations, or build week performance review sessions.)
+in an attempt to receive a higher score: namely, for build week presentations &
+demos (given that these are team projects though, they will require all team
+members to spend one token each).
 
 There may (or may not) be opportunities to earn extra tokens this semester. That
 will be for all of us to discover together.
