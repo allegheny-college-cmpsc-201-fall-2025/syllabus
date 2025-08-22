@@ -218,9 +218,6 @@ The 100 possible points from this course are derived from the following sources:
 Each commit week has 5 points up for grabs, one each for the following
 activities:
 
-- **Attendance**: once during each commit week I will take attendance on a
-  random day. Attend class/lab and the point is yours. Miss and you forfeit it.
-
 - **Discord Discussion**: I will share a discussion prompt in the class Discord
   channel at the start of the week. By **Wednesday, at 11:59pm** you are
   required to respond to the prompt with a *novel contribution* (meaning your
@@ -243,11 +240,22 @@ activities:
   **forfeit this point together**. Nobody left behind!
 
 - **Reflection Entry**: each week I will assign one reflection prompt that you
-  will submit via GitHub to me. These prompts always require a minimum of 250
+  will submit via GitHub to me. These prompts always require a minimum of 200
   words to be considered complete, and your responses here will sometimes form
   the basis for performance review sessions in build/release weeks. The deadline
-  for reflection entries is always **11:59pm on Friday** in the week that it is
-  assigned.
+  for reflection entries is always **11:59pm on Saturday** in the week that it
+  is assigned.
+
+- **Mapmaking Task**: in support of the first learning objective for the course
+  (correctly identify and describe the steps in the design and implementation of
+  a programming language) you will be making a visual map of a programming
+  language and its many parts using the free tool
+  [excalidraw](https://excalidraw.com/). Each week will see you add on to this
+  running visual representation of what we're learning in class. Weekly
+  additions to the map are due **11:59pm on Saturday** in the week that it is
+  assigned. Like with personal reflection entries, these mapmaking tasks will
+  sometimes form the basis for performance review sessions in build/release
+  weeks.
 
 ### Build Week Points
 
@@ -299,8 +307,8 @@ that can be cashed in to make up work for three missed deadlines.
 
 Four guidelines apply to the cashing in of any tokens this semester:
 
-1. They cannot be applied to missed attendance points, performance review
-sessions, or any deliverables pertaining to release week.
+1. They cannot be applied to missed performance review sessions, or any
+deliverables pertaining to release week.
 
 2. If you're applying tokens to team-based assignments, then *all* team members
 must fork over one token each.
