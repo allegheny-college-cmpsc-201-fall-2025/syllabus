@@ -339,10 +339,16 @@ will be for all of us to discover together.
 > freedom of speech and inquiry, while at the same time fostering responsibility
 > and accountability in the exercise of these freedoms.
 
+Beyond the college-wide statement of community, the Allegheny Department of
+Computer and Information Science has four core values that we will all strive
+to emulate while taking classes within the department:
+
+![Allegheny CIS shared values](assets/values.png)
+
 It's worth noting that we will together create and enforce team-based codes of
-conduct that will endeavor to uphold these college values. Failure to abide by
-these codes of conduct (and the college's statement of community) will result
-in grade penalties via performance review scores.
+conduct that will endeavor to uphold these college and departmental values.
+Failure to abide by these codes of conduct (and the college's statement of
+community) will result in grade penalties via performance review scores.
 
 ### Academic Accommodations
 
