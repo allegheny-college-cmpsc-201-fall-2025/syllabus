@@ -58,7 +58,7 @@ Students who successfully complete this course should expect to be able to:
 
 - **Email:** jnormile@allegheny.edu
 - **Phone:** (814) 332-2883
-- **Office:** Alden 105
+- **Office:** Alden 106
 
 ### Office Hours
 
@@ -68,8 +68,8 @@ first serve.
 
 | Day | Time          |
 | :-- | ------------: |
-| Wed | 4:30p - 5:30p |
-| Fri | 6:30p - 8:30p |
+| Wed | 5p - 6p       |
+| Fri | 6p - 8p       |
 
 ### A Note on Contacting the Instructor
 
@@ -83,14 +83,15 @@ period, excluding weekends and holidays (work-life balance is important for
 
 Additionally, it's worth noting that between class sessions, lab, and my office
 hours, there is ample opportunity for us to see each other in-person on a daily
-basis should you so desire! (Again, excluding weekends; absence makes the heart
-grow fonder, after all.) I suspect this will make face-to-face conversation the
-preferred method of communicating with one another.
+basis should you so desire! (Again, excluding the aforementioned weekends and
+holidays; absence makes the heart grow fonder, after all.) I suspect this will
+make face-to-face conversation the preferred method of communicating with one
+another.
 
 If my suspicion proves incorrect and you'd really rather just write me outside
-of the times we see each other, my preferred mode of asynchronous correspondence
-is Discord; here "preferred" means the mode in which you're most likely to get
-the swiftest response.
+of the times we see each other, my *preferred* mode of asynchronous
+correspondence is Discord; here "preferred" means the mode in which you're most
+likely to get the swiftest response.
 
 ## Textbook: *Crafting Interpreters*
 
@@ -234,7 +235,8 @@ project demo, a brief presentation, and an individual performance review.
 
 - **Project demo and presentation**: 5 points will be tied to specific tasks
   involving the project demo and presentation. These tasks will vary from
-  project to project.
+  project to project. All team members will receive the same number of points
+  from these tasks.
 
 - **Performance review**: during build weeks, I will meet with each of you
   individually during team working time to conduct one-on-one performance
@@ -261,23 +263,30 @@ The 20 points available from release week come from the following sources:
 
 ## Tokens: The Second Chance System
 
-I get it, life happens. Sometimes you might miss a deadline. While you should
-generally make every effort to *avoid* this outcome, occasionally it's
-inevitable. I want to recognize this fact of life, but at the same time if I do
-away with penalties for missed deadlines altogether, it becomes very difficult
-to facilitate our learning *together*: if you're on page five while the rest of
+My job is to facilitate your learning, and that's most effective when we're all
+learning *together*. Put another way: if you're on page five while the rest of
 the book club is on page five-hundred, then you're not going to get much out of
 book club, and book club isn't going to get much out of *you*.
 
 This being the case, once a deadline has passed, there will be no opportunity to
-reclaim any missed points...with three exceptions at your discretion, that is.
+reclaim any missed points...with three exceptions to be used at your discretion,
+that is. (I recognize that life happens, and these three exceptions are in
+recognition of that simple truth.)
+
 In keeping with department tradition, CMPSC 201 offers students three tokens
-that can be cashed in to make up work for three missed deadlines. These *cannot*
-be applied to any deliverables pertaining to release week, or the one-on-one
-performance review sessions with the instructor. All else (including demos and
-presentations for build weeks) is fair game, with one caveat: if it's a team
-assignment you're attempting to make up, then *all* team members must fork over
-one token each.
+that can be cashed in to make up work for three missed deadlines.
+
+Three rules apply to the cashing in of any tokens this semester:
+
+1. They cannot be applied to missed attendance points or any deliverables
+pertaining to release week.
+
+2. If you're applying tokens to missed team-based assignments, then *all* team
+members must fork over one token each.
+
+3. Tokens must be applied (and the relevant work submitted) within two weeks of
+the original deadline. Once this two week period has elapsed, tokens can no
+longer be applied to that assignment.
 
 There may (or may not) be opportunities to earn extra tokens this semester. That
 will be for all of us to discover together.
@@ -290,15 +299,15 @@ will be for all of us to discover together.
 | 9/1 (no lab)             | Commit    | Parts of a Language      | Chapter 2  |
 | 9/8                      | Commit    | Enter Lox                | Chapter 3  |
 | 9/15                     | Build     | Language Zoo             | N/A        |
-| 9/22                     | Commit    | You Can Scan, Man        | Chapter 4  |
-| 9/29                     | Commit    | Getting Grammatical      | Chapter 5  |
-| 10/6 (no TH class)       | Commit    | Unambiguity              | Chapter 6  |
+| 9/22                     | Commit    | Scanning                 | Chapter 4  |
+| 9/29                     | Commit    | Grammars                 | Chapter 5  |
+| 10/6 (no TH class)       | Commit    | Parsing                  | Chapter 6  |
 | 10/13                    | Build     | Mission Im-parse-ible    | N/A        |
-| 10/20                    | Commit    | The Value of Evaluation  | Chapter 7  |
-| 10/27                    | Commit    | State of the State       | Chapter 8  |
-| 11/3 (no TU class)       | Commit    | Flow Machines            | Chapter 9  |
+| 10/20                    | Commit    | Expressions              | Chapter 7  |
+| 10/27                    | Commit    | Statements               | Chapter 8  |
+| 11/3 (no TU class)       | Commit    | Control Flow             | Chapter 9  |
 | 11/10                    | Build     | Locking in Lox           | N/A        |
-| 11/17                    | Commit    | Locking up Lox           | Chapter 10 |
+| 11/17                    | Commit    | Functions                | Chapter 10 |
 | 11/24 (no TH class)      | Working   | N/A                      | N/A        |
 | 12/1                     | Working   | N/A                      | N/A        |
-| 12/8 (meeting TU @ 9am)  | Release   | N/A                      | N/A        |
+| 12/8 (exam @ TU, 9am)    | Release   | N/A                      | N/A        |
