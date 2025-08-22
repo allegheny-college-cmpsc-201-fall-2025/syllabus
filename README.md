@@ -291,6 +291,39 @@ longer be applied to that assignment.
 There may (or may not) be opportunities to earn extra tokens this semester. That
 will be for all of us to discover together.
 
+## Our Environment: Regarding Community & Accomodations
+
+### Allegheny Statement of Community
+
+> Allegheny students and employees are committed to creating an inclusive,
+> respectful and safe residential learning community that will actively confront
+> and challenge racism, sexism, heterosexism, religious bigotry, and other forms
+> of harassment and discrimination. We encourage individual growth by promoting
+> a free exchange of ideas in a setting that values diversity, trust and
+> equality. So that the right of all to participate in a shared learning
+> experience is upheld, Allegheny affirms its commitment to the principles of
+> freedom of speech and inquiry, while at the same time fostering responsibility
+> and accountability in the exercise of these freedoms.
+
+It's worth noting that we will together create and enforce team-based codes of
+conduct that will endeavor to uphold these college values. Failure to abide by
+these codes of conduct (and the college's statement of community) will result
+in grade penalties via performance review scores.
+
+### Academic Accomodations
+
+> Students with disabilities who believe they may need accommodations in this
+> class are encouraged to contact Student Accessibility and Support Services
+> (SASS) at (814) 332-2898.  Student Accessibility and Support Services is
+> located in Pelletier Library.  Please do this as soon as possible to ensure
+> that such accommodations are implemented in a timely fashion. Please see here
+> for more details.
+
+Beyond college-sponsored academic accomodations, if you ever feel that you need
+an extra helping hand to manage course workload, please get with me ASAP. My
+goal is to (say it with me now) ensure that we all learn *together*; achieving
+this requires that none of us get left behind.
+
 ## Course Calendar: The Road Ahead
 
 | Week Starting            | Type      | Theme                    | Reading    |
