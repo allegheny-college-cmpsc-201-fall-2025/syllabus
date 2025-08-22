@@ -148,7 +148,7 @@ You'll work with teammates to put together a sizable project that demonstrates
 your mastery of course learning objectives. The big release week will be
 preceded by a few working weeks, where no new tasks will be assigned by the
 instructor; however, you'll need to take ownership of your own (and your team's)
-time management to use those "free" weeks wisely to complete the requirements
+time management to use those working weeks wisely to complete the requirements
 associated with the culminating project.
 
 Release week itself will take place during exam week. During our scheduled final
@@ -163,9 +163,9 @@ what we've discovered with one another. The grading strategies employed in this
 class are built around those ideas.
 
 There are exactly 100 points up for grabs over the course of the semester.
-You'll begin with exactly 0, and each week will have a finite number of 
-opportunities to pump that score up. Your score at the end of the semester will
-determine the letter grade you receive.
+You'll begin with 0, and each week will have a finite number of opportunities to
+pump that score up. Your score at the end of the semester will determine the
+letter grade you receive.
 
 ### Letter Grade Conversion Chart
 
@@ -276,22 +276,27 @@ recognition of that simple truth.)
 In keeping with department tradition, CMPSC 201 offers students three tokens
 that can be cashed in to make up work for three missed deadlines.
 
-Three rules apply to the cashing in of any tokens this semester:
+Four guidelines apply to the cashing in of any tokens this semester:
 
 1. They cannot be applied to missed attendance points or any deliverables
 pertaining to release week.
 
-2. If you're applying tokens to missed team-based assignments, then *all* team
-members must fork over one token each.
+2. If you're applying tokens to team-based assignments, then *all* team members
+must fork over one token each.
 
 3. Tokens must be applied (and the relevant work submitted) within two weeks of
 the original deadline. Once this two week period has elapsed, tokens can no
 longer be applied to that assignment.
 
+4. In addition to missed assignments, tokens can be used to resubmit assignments
+in an attempt to receive a higher score. (Given the credit/no credit nature of
+commit week deliverables, this will only really pertain to build week demos &
+presentations, or build week performance review sessions.)
+
 There may (or may not) be opportunities to earn extra tokens this semester. That
 will be for all of us to discover together.
 
-## Our Environment: Regarding Community & Accomodations
+## Our Environment: Regarding Community & Accommodations
 
 ### Allegheny Statement of Community
 
@@ -310,7 +315,7 @@ conduct that will endeavor to uphold these college values. Failure to abide by
 these codes of conduct (and the college's statement of community) will result
 in grade penalties via performance review scores.
 
-### Academic Accomodations
+### Academic Accommodations
 
 > Students with disabilities who believe they may need accommodations in this
 > class are encouraged to contact Student Accessibility and Support Services
