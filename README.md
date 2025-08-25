@@ -290,6 +290,14 @@ The 20 points available from release week come from the following sources:
   me to ask you to honestly evaluate your own performance, and orally test your
   mastery of course learning objectives.
 
+### Regarding Attendance
+
+In order to win a ball game, you first have to show up. Same goes for your
+future careers, and same goes for this class. In keeping with department
+policies, excessive absences will negatively impact your grade. More
+specifically, missing class (or lab) more than six times this semester will
+result in a letter grade reduction.
+
 ## Tokens: The Second Chance System
 
 My job is to facilitate your learning, and that's most effective when we're all
